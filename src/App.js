@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css';
 
 
-const logo = "https://www.youtube.com/watch?v=953PkxFNiko"
+const logo = "https://gph.is/19ljcLO"
 
 function App() {
   return (
@@ -15,7 +15,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.youtube.com/watch?v=953PkxFNiko"
           target="_blank"
           rel="noopener noreferrer"
         >
