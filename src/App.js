@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://media.giphy.com/media/33OrjzUFwkwEg/giphy.gif" className="App-logo" alt="logo" />
         <p>
           Azure Static Web Apps Are C00l!
         </p>
