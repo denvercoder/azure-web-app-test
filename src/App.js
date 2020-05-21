@@ -1,9 +1,6 @@
 import React from 'react';
-// import logo from './logo.svg';
 import './App.css';
 
-
-const logo = "https://gph.is/19ljcLO"
 
 function App() {
   return (
